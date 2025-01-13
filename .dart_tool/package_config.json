@@ -374,10 +374,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-01-13T14:34:46.823799Z",
+  "generated": "2025-01-13T20:20:01.365309Z",
   "generator": "pub",
-  "generatorVersion": "3.6.0",
-  "flutterRoot": "file:///Users/brucebalo/development/flutter",
-  "flutterVersion": "3.27.1",
-  "pubCache": "file:///Users/brucebalo/.pub-cache"
+  "generatorVersion": "3.1.0"
 }
