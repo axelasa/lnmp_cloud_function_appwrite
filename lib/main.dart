@@ -18,7 +18,7 @@ MpesaCredentials credentialsFromEnv(final context) {
   String sec = Platform.environment['CONSUMER_SECRET']!;
   String callbackUrl = Platform.environment['CALLBACK_URL']!;
   int shortCode = int.parse(Platform.environment['SHORT_CODE']!);
-  String account = 'ArcaneLiving';
+  String account = 'Build Masters';
   String passKey = Platform.environment['PASS_KEY']!;
   return MpesaCredentials(
     key: key,
